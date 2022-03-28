@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>mine.png</file>
+        <file>redflag.png</file>
+        <file>smile.png</file>
+        <file>heart.png</file>
+    </qresource>
+</RCC>
